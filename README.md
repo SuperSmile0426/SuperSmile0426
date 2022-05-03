@@ -1,6 +1,6 @@
                                                                Hi Everyone 👋
 
-                                            Fullstack & BlockChain developer
+                                                   Fullstack & BlockChain developer
 
 In this era of the internet, I build strong business relationships with clients around the globe to help them leverage technology to grow their business to the next level. I am a web developer that turns your ideas into a new driving force of your business.
 After graduating with Bachelor’s degree in Computer Science, have spent the last 10+ years building professional experience as a Web Development & BlockChain and Cryptycurrency.
