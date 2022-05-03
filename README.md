@@ -1,4 +1,4 @@
-                                                           👋 ![7](https://user-images.githubusercontent.com/102739890/166496759-e08e13ce-882f-4cff-b3ae-3b11f2acaadf.PNG) 👋
+                                                         👋 Hello, everyone 👋
 
                                                    Fullstack & BlockChain developer
 
