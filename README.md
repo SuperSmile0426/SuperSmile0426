@@ -1,6 +1,6 @@
-                                                         👋 Hello, everyone 👋
+                                                     👋 Hello, everyone 👋
 
-                                                   Senior Software Engineer
+                                                   Senior  Software  Engineer
 
  As a highly skilled Senior Software Engineer with over 8 years of expertise in designing, developing, deploying, and maintaining complex software applications. Proficient in various programming languages, frameworks, and blockchain technologies including JavaScript, Typescript, React, Python, Golang, Hyperledger Fabric, AWS, Docker, and Kubernetes. 
   Skilled in managing the entire software development lifecycle, from ideation to production deployment, utilizing Agile methodologies and DevOps practices. Proven ability to lead cross-functional technical teams, drive project success, and deliver innovative solutions that meet customer needs. Committed to staying up-to-date with emerging technologies and implementing best practices to continuously improve software quality and performance.
