@@ -23,12 +23,12 @@ I'm a Senior Software Engineer with over 8 years of experience building scalable
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, TypeScript, Java, C#, .Net, Rust, Solidity, Go, SQL  
+**Languages**: Python, TypeScript, Rust, Solidity, Java, C#, Go, SQL  
 **Frontend**: React, Next.js, Tailwind, Vue, React Native  
-**Backend**: FastAPI, Node.js (NestJS/Express), Django, GraphQL  
+**Backend**: FastAPI, Node.js (NestJS/Express), Django, Laravel, Spring Boot, ASP.NET Core  
 **Blockchain**: Solidity, Rust, Ethers.js, Web3.js  
-**Databases**: PostgreSQL, MongoDB, MySQL, DynamoDB, Redis  
-**Cloud & DevOps**: AWS, GCP, Docker, Kubernetes, Terraform, CI/CD  
+**Databases**: PostgreSQL, MongoDB, MySQL, MariaDB, DynamoDB, Redis  
+**Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD  
 **AI/ML**: OpenAI, Langchain, pgvector, Hugging Face, LLMOps  
 **Tools**: GitHub, Jira, Notion, Datadog, Sentry, Storybook, Postman
 
