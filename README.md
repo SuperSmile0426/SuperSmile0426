@@ -2,7 +2,7 @@
 
                                                    Senior  Software  Engineer
 
-A Senior Software Engineer with over 8 years of experience in software development, AI, and MLOps,  specializing in LLM-based pipelines, including RAG, agentic workflows, fine-tuning, and prompt engineering across fintech, trading, Blockchain, and e-commerce. Proficient in Python, React, TypeScript, Node.js, Rust, Django, and FastAPI, with a strong background in full-stack development, system architecture, and scalable backend services. Experienced in DevOps, cloud infrastructure (AWS), Kubernetes, Terraform, and CI/CD pipelines, I excel in designing high-performance applications, optimizing AI workflows, and leading cross-functional teams to drive innovation and efficiency.
+A Senior Software Engineer with over 10 years of experience in software development, AI, and MLOps,  specializing in LLM-based pipelines, including RAG, agentic workflows, fine-tuning, and prompt engineering across fintech, trading, Blockchain, and e-commerce. Proficient in Python, React, TypeScript, Node.js, Rust, Django, and FastAPI, with a strong background in full-stack development, system architecture, and scalable backend services. Experienced in DevOps, cloud infrastructure (AWS), Kubernetes, Terraform, and CI/CD pipelines, I excel in designing high-performance applications, optimizing AI workflows, and leading cross-functional teams to drive innovation and efficiency.
 
 <!--
 **SuperSmile0426/SuperSmile0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
